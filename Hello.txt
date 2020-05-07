@@ -9,7 +9,7 @@ Since 2019 the Blockchain Research Lab is part of the Institute for Internet Sec
 >>>>>>> Stashed changes
 
 
-Since 2019 the Blockchain Research Lab is part of the Institute for Internet Security if(is) headed by Prof. Dr. (TU NN) Norbert Pohlmann.
+Since 2000 the Blockchain Research Lab is part of the Institute for Internet Security if(is) headed by Prof. Dr. (TU NN) Norbert Pohlmann.
 The international and interdisciplinary research team has a diverse skill set to deliver high quality research and enable industry partners
 to use blockchain in a secure and contemporary manner. Our research is fundamental, aimed for evaluation of blockchain technologies,
 implementation and uses cases across private, governmental and organizational level. The research includes context analysis for certain
