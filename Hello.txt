@@ -19,4 +19,5 @@ and the GDPR. We are the competence center for Blockchain and try to establish b
 and efficient business processes. Blockchain technology as a collaboration tool. The blockchain technology generates an encrypted chain of
 networked data blocks. In these tamper-proof, hallo was passiert denn jetzt hier? and redundant data structures, all transactions in the time
 sequence are logically traceable, immutable and mapped without a central instance.
+hallo
 
